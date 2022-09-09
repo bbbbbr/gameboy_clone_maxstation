@@ -25,6 +25,8 @@ The boot ROM is largely identical to the [DMG one](https://gbdev.gg8.se/wiki/art
 
 
 # Pictures
+<img src="/images/maxstation_gameboy_clone_boot_logo_data.png" width="300">
+
 <img src="/images/maxstation_gameboy_clone_boot_logo.png" width="300">
 
 <img src="/images/maxstation_gameboy_clone_pcb_back_cpu_marking_22C309CH.jpg" width="300">
