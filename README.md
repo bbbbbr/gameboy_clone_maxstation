@@ -7,7 +7,7 @@ The "Maxstation" is a Game Boy clone, seen below next to a Game Boy Pocket.
 # Some observed characteristics
 * Game Boy Pocket form factor
 * DMG-like CPU
-* Scrolls a "Loading..." logo on power-up instead of "Nintendo"
+* Scrolls a "Loading..." logo on power-up instead of "Nintendo". It ignores the logo in cartridge header and will display it's own even if no cartridge is inserted.
 * Runs too fast (~19.2% faster), as some other clones do
 * Screen has significant motion blur
 * Appears to have trouble powering on if connected to another powered-on Game Boy via Link Port
